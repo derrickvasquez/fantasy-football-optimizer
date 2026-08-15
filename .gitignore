@@ -8,3 +8,4 @@ data/raw/
 data/processed/
 
 .streamlit/secrets.toml
+progress.txt
